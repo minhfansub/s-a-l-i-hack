@@ -311,7 +311,7 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau"))(Settings)
+local v14 =
 local v15 = v14:CreateWindow({
     Title = "minhfansub roblox Hub",
     SubTitle = "Blox Fruit",
